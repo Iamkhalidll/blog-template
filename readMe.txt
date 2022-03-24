@@ -1,0 +1,1 @@
+This is a template created entirely out of bootstrap and html. The template is open source so it can be used by anyone
